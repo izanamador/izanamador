@@ -13,4 +13,5 @@
 ![Izan's github stats](https://github-readme-stats.vercel.app/api?username=izanamador&count_private=true&show_icons=true&theme=onedark)
 
 <a target="_blank" href="https://icons8.com/icon/60ZV_wYC0BM2/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/60ZV_wYC0BM2/linkedin">Cool Robot Gif</a> by <a target="_blank" href="https://www.austinlutzart.com/robot">Icons8</a>
+
+<a target="_blank" href="https://icons8.com/icon/60ZV_wYC0BM2/linkedin">Cool Robot Gif</a> by <a target="_blank" href="https://www.austinlutzart.com/robot">AustinLut</a>
