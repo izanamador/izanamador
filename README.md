@@ -5,7 +5,7 @@
 
 ----------
 
-### Hi! I am a **Electronics, Robotics and Mechatronics** student from the *University of Málaga*.<a href="https://www.linkedin.com/in/izanamador"> <img alt="LinkedIn" title="LinkedIn" height="30" width="30" src="img\linkedin.svg"></a>
+### Hi! I am a **Electronics, Robotics and Mechatronics** engineer.
 
 
 ![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izanamador&layout=compact&hide=css,html)<img src="img\battlebot_idle-3.gif" width="150px" alt="150">
